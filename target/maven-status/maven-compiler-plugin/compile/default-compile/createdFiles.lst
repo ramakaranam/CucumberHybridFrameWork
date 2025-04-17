@@ -1,0 +1,10 @@
+utils\commonUtils.class
+Pages\SearchResultsPage.class
+Pages\RegisterPage.class
+Pages\AccountSuccessPage.class
+Pages\LoginPage.class
+utils\ConfigReader.class
+utils\ElementsUtils.class
+Automation\BBDFramework\App.class
+Pages\AccountPage.class
+Pages\HomePage.class

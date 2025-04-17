@@ -1,0 +1,7 @@
+hooks\MyHooks.class
+steps\RegisterPage_Steps.class
+steps\Search_Page.class
+testRunner\TestRunner.class
+steps\forgotpassword.class
+DriverFactory\DriverFactory.class
+steps\LoginPage_steps.class
